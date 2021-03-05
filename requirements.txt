@@ -1,0 +1,10 @@
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Werkzeug==1.0.1
+
+Three uses of pip:
+install packages from the python package using: pip3 install
+See what dependencies are installed and optionally redirect the output to a requirements.txt file: pip3 freeze --local
+Install dependencies from a requirements.txt file: pip3 install -r requirements.txt
+Look up pypi.org to search for packages that you can install for use in your own project
